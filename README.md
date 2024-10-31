@@ -63,7 +63,9 @@ Technologies Used: OpenCV, Python, Numpy
 ![Morphological Gradient](https://github.com/user-attachments/assets/ed44779a-d34e-45a8-a59e-b2433442da53)
 
 **Morphological Black Hat**
+
 ![Morphological Black Hat](https://github.com/user-attachments/assets/741edead-44a9-4890-8958-d10dd2e609f1)
 
 **CLAHE**
+
 ![CLAHE](https://github.com/user-attachments/assets/7b9c4b92-ac04-4047-9cd4-9d595f8f0f0e)
