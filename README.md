@@ -1,4 +1,4 @@
-# Image Filter Application
+# Image Filters Application
 
 The Photo Filtering Application allows users to instantly enhance and personalize their photos. The application is designed with a user-friendly interface and offers various filters and customization options.
 
